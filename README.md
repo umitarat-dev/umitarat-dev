@@ -714,10 +714,10 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umit8098&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2&v=1" alt="languages" width="40%" >
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=umit8098" alt="Umit8098" width="20%" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=umitarat-dev" alt="umitarat-dev" width="20%" /> </p>
 
 <br>
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://raw.githubusercontent.com/umit8098/umit8098/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/umitarat-dev/umit8098/output/github-contribution-grid-snake.svg)
