@@ -38,13 +38,13 @@ Hi, I’m **Ümit**.
   <tr>
     <td width="50%">
       <h2>🏎️ Rent A Car App (Fullstack)</h2>
-      <p>A production-grade Fullstack Rent A Car application built with Django REST and React. Features Google OAuth 2.0, AWS S3 image management, and isolated Staging/Production environments deployed on Railway and Vercel.
-      A production-grade Fullstack Rent A Car application.
-Implemented an advanced development workflow with isolated **Staging** and **Production** environments.
+      <p>A production-grade Fullstack Rent A Car application Implemented an advanced development workflow with isolated 
 
-- **Frontend:** React (Vite) deployed on Vercel with automated branch-based previews.
-- **Backend:** Django REST Framework on Railway, leveraging PostgreSQL (Neon) and AWS S3 for media.
-- **Infrastructure:** Professional CI/CD pipeline where staging changes are tested before merging into production.
+  **Staging** and **Production** environments.
+      
+  - **Frontend:** React (Vite) deployed on Vercel with automated branch-based previews.
+  - **Backend:** Django REST Framework on Railway, leveraging PostgreSQL (Neon) and AWS S3 for media.
+  - **Infrastructure:** Professional CI/CD pipeline where staging changes are tested before merging into production.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Backend-Django%20REST-0C4B33?style=flat&logo=django&logoColor=white" />
