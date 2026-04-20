@@ -17,8 +17,10 @@ jobs:
       # Generate the snake animation and export it as a .svg file
       - uses: Platane/snk@v3
         with:
-          github_user_name: umit8098
-          outputs: dist/snake.svg
+          github_user_name: umitarat-dev
+          outputs: 
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
       # Commit and push the generated snake.svg to the output branch
       - name: Commit and push changes
@@ -26,6 +28,7 @@ jobs:
         with:
           commit_message: "Updated Snake Animation"
           branch: output
+          create_branch: true # Eğer output branch'i yoksa oluşturur
           file_pattern: dist/snake.svg
 
 

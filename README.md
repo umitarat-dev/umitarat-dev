@@ -725,4 +725,4 @@ Hi, I’m **Ümit**.
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://raw.githubusercontent.com/umitarat-dev/umit8098/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/umitarat-dev/umitarat-dev/output/github-contribution-grid-snake.svg)

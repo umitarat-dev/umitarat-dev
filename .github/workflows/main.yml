@@ -1,0 +1,16 @@
+# Generate the snake animation
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: umitarat-dev
+          outputs: 
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      # Commit and push the generated files
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated Snake Animation"
+          branch: output
+          create_branch: true
+          file_pattern: 'dist/*.svg' # Bu sayede dist içindeki tüm svg'leri yakalar
