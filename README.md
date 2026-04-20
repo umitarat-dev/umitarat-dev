@@ -705,13 +705,13 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
 ## 📊 GitHub Stats  
 
 <p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umit8098&theme=tokyonight&cache_seconds=86400" width="49%"/>&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umitarat-dev&theme=tokyonight&cache_seconds=86400" width="49%"/>&nbsp;
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=umit8098&theme=tokyonight" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=umitarat-dev&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umit8098&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2&v=1" alt="languages" width="40%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitarat-dev&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2&v=1" alt="languages" width="40%" >
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umitarat-dev" alt="umitarat-dev" width="20%" /> </p>
