@@ -1,13 +1,12 @@
 
 ## 👋 Hi there
 
-Hi, I’m **Ümit**.  
-I’m a **Full-Stack Developer** building web applications with **React**, **Django**, and **PostgreSQL**.
-
+Hi, I’m **Ümit**.
+**Fullstack Developer | React & Django Specialist | AI-Native Workflow Enthusiast 🚀**  
 💻 **Core Stack:** JavaScript, React, Redux Toolkit, Python, Django, PostgreSQL  
-🚀 **Focus:** Frontend architecture, REST API integration, authentication flows, CRUD systems, and responsive UI  
-🌱 **Currently Learning:** TypeScript, Next.js, advanced Django patterns  
-👯 **Open to:** Junior Frontend / Full-Stack opportunities and collaboration  
+🚀 **Focus:** Frontend architecture, REST API integration, Isolated CI/CD Workflows (Staging/Production), authentication flows, CRUD systems, and responsive UI  
+🌱 **Currently:** Building production-grade apps using AI-first development tools and agentic IDEs  
+👯 **Open to:** Full-Stack opportunities and technical collaboration  
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/%C3%BCmit-arat-189bb1193/) • [Gmail](mailto:umitarat8098@gmail.com)
 
 <br>
@@ -40,6 +39,12 @@ I’m a **Full-Stack Developer** building web applications with **React**, **Dja
     <td width="50%">
       <h2>🏎️ Rent A Car App (Fullstack)</h2>
       <p>A production-grade Fullstack Rent A Car application built with Django REST and React. Features Google OAuth 2.0, AWS S3 image management, and isolated Staging/Production environments deployed on Railway and Vercel.
+      A production-grade Fullstack Rent A Car application.
+Implemented an advanced development workflow with isolated **Staging** and **Production** environments.
+
+- **Frontend:** React (Vite) deployed on Vercel with automated branch-based previews.
+- **Backend:** Django REST Framework on Railway, leveraging PostgreSQL (Neon) and AWS S3 for media.
+- **Infrastructure:** Professional CI/CD pipeline where staging changes are tested before merging into production.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Backend-Django%20REST-0C4B33?style=flat&logo=django&logoColor=white" />
