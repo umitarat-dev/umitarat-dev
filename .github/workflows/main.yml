@@ -1,16 +1,27 @@
-# Generate the snake animation
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
           github_user_name: umitarat-dev
-          outputs: 
+          outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      # Commit and push the generated files
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Updated Snake Animation"
           branch: output
           create_branch: true
-          file_pattern: 'dist/*.svg' # Bu sayede dist içindeki tüm svg'leri yakalar
+          file_pattern: 'dist/*.svg'
