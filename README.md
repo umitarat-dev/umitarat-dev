@@ -39,7 +39,7 @@ Hi, I’m **Ümit**.
     <td width="50%">
       <h2>🏎️ Rent A Car App (Fullstack)</h2>
       <p>A production-grade Fullstack Rent A Car application Implemented an advanced development workflow with isolated 
-      
+
   **Staging** and **Production** environments.
       
   - **Frontend:** React (Vite) deployed on Vercel with automated branch-based previews.
@@ -55,9 +55,9 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
       </p>      
       <p align="center">
-        <a href="https://rent-a-car-app-three.vercel.app">🔗 Live Demo</a>
+        <a href="https://rent-a-car-app-three.vercel.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-13-blog-app.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Rent-A-Car-App.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://rent-a-car-app-three.vercel.app">
@@ -89,7 +89,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
   </tr>
-  <!-- Row 1 -->
+  <!-- Row 2 -->
   <tr>
     <td width="50%">
       <h2>📝 Blog App - React (Firebase & Netlify)</h2>
@@ -140,7 +140,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
   </tr>
-  <!-- Row 2 -->
+  <!-- Row 3 -->
   <tr>
     <td width="50%">
       <h2>📌 Contacts App - React (Firebase)</h2>
@@ -184,7 +184,7 @@ Hi, I’m **Ümit**.
     </td>
   </tr>
 
-  <!-- Row 2 -->
+  <!-- Row 4 -->
   <tr>
     <td width="50%">
       <h2>🎨 SASS Landing Page</h2>
@@ -227,7 +227,7 @@ Hi, I’m **Ümit**.
     </td>
   </tr>
 
-  <!-- Row 4 -->
+  <!-- Row 5 -->
   <tr>
     <td width="50%">
       <h2>🛒 Checkout/Shopping Card - Javascript</h2>
@@ -268,7 +268,7 @@ Hi, I’m **Ümit**.
     </td>
   </tr>
 
-  <!-- Row 5 -->
+  <!-- Row 6 -->
   <tr>
     <td width="50%">
       <h2>📱 iOS Calculator</h2>
@@ -310,7 +310,7 @@ Hi, I’m **Ümit**.
     </td>
   </tr>
 
-  <!-- Row 6 -->
+  <!-- Row 7 -->
   <tr>
     <td width="50%">
       <h2>🗺️ Tour Places</h2>
@@ -351,7 +351,7 @@ Hi, I’m **Ümit**.
     </td>
   </tr>
 
-  <!-- Row 7 -->
+  <!-- Row 8 -->
   <tr>
     <td width="50%">
       <h2>📚 Tutorial FullStack (React + Django)</h2>
@@ -393,7 +393,7 @@ Hi, I’m **Ümit**.
     </td>
   </tr>
 
-  <!-- Row 8 -->
+  <!-- Row 9 -->
   <tr>
     <td width="50%">
       <h2>🚩 Flag App – REST API</h2>
