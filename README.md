@@ -297,12 +297,12 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/Styling-Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
         <img src="https://img.shields.io/badge/Routing-React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
       </p>      <p align="center">
-        <a href="https://recipe-app-umitdev.netlify.app/">🔗 Live Demo</a>
+        <a href="https://recipe-app-react-umitdev.vercel.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-Recipe-App.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Recipe-App-React.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://recipe-app-umitdev.netlify.app/">
+        <a href="https://recipe-app-react-umitdev.vercel.app/">
           <img src="./frontend-gif2/recipe-app.gif" height="150"/>
         </a>
       </p>
