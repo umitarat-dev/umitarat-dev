@@ -361,7 +361,7 @@ Hi, I’m **Ümit**.
   <tr>
     <td width="50%">
       <h2 align="center">🚀 Persistent Taskflow</h2>
-      <p>Full-stack CRUD application using React frontend, Django REST backend, and API-based client-server data flow.
+      <p>A professional React task management system utilizing LocalStorage for permanent data retention. Features dynamic state toggling, interactive UI feedback, and optimized performance.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
