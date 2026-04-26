@@ -147,23 +147,23 @@ Hi, I’m **Ümit**.
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td width="50%">
-      <h2>📌 Contacts App - React (Firebase)</h2>
-      <p>Contact management app with Firebase Authentication, user-based data isolation, and full CRUD operations in a responsive Material UI interface.</p>
+      <td width="50%">
+      <h2>📌 Recipe App React - MultiPage (Edamam API)</h2>
+      <p>Advanced Recipe Search application integrated with Edamam API. Features secure environment configuration on Vercel, asynchronous data fetching, and modular Styled Components architecture.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Auth-Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Database-Realtime%20DB-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/UI%20Library-MUI-007FFF?style=flat&logo=mui&logoColor=white"/>
-      </p>
+        <img src="https://img.shields.io/badge/Styling-Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Routing-React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
+      </p>      
       <p align="center">
-        <a href="https://contacts-app-umitdev.netlify.app">🔗 Live Demo</a>
+        <a href="https://recipe-app-react-umitdev.vercel.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/umitarat-dev/Contacts-App.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Recipe-App-React.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://contacts-app-umitdev.netlify.app">
-          <img src="frontend-gif/firecontact-app.gif" height="150"/>
+        <a href="https://recipe-app-react-umitdev.vercel.app/">
+          <img src="https://raw.githubusercontent.com/umitarat-dev/Recipe-App-React/main/img/recipe-app.gif" height="150"/>
         </a>
       </p>
     </td>
@@ -187,25 +187,35 @@ Hi, I’m **Ümit**.
       </p>
     </td>
   </tr>
+</table>
+<br>
+
+<details>
+  <summary><b>🔍 View More Frontend Projects (Click to expand)</b></summary>
+  <br>
+  <table>
+
+
 
   <!-- Row 4 -->
   <tr>
-    <td width="50%">
-      <h2>🎨 Sass-Portfolio-Landing-Page</h2>
-      <p>Responsive landing page built with Sass architecture, reusable style structure, and modern UI section layout.
+      <td width="50%">
+      <h2>📌 Contacts App - React (Firebase)</h2>
+      <p>Contact management app with Firebase Authentication, user-based data isolation, and full CRUD operations in a responsive Material UI interface.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Auth-Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Database-Realtime%20DB-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/UI%20Library-MUI-007FFF?style=flat&logo=mui&logoColor=white"/>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Structure-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Styling-Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://umitarat-dev.github.io/Sass-Portfolio-Landing-Page/">🔗 Live Demo</a>
+        <a href="https://contacts-app-umitdev.netlify.app">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/umitarat-dev/Sass-Portfolio-Landing-Page.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Contacts-App.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umitarat-dev.github.io/Sass-Portfolio-Landing-Page/">
-          <img src="frontend-gif/Sass.gif" height="150"/>
+        <a href="https://contacts-app-umitdev.netlify.app">
+          <img src="frontend-gif/firecontact-app.gif" height="150"/>
         </a>
       </p>
     </td>
@@ -231,20 +241,22 @@ Hi, I’m **Ümit**.
 
   <!-- Row 5 -->
   <tr>
-    <td width="50%">
-      <h2>🛒 Javascript-Shopping-Cart-Logic</h2>
-      <p>Interactive shopping cart application built with Vanilla JavaScript. Demonstrates advanced DOM manipulation using Event Delegation (Capturing/Bubbling), real-time pricing calculations, and Web Storage API integration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Logic-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Storage-LocalStorage-323330?style=flat&logoColor=white"/>
-      </p>      <p align="center">
-        <a href="https://umitarat-dev.github.io/Javascript-Shopping-Cart-Logic/">🔗 Live Demo</a>
-          &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/umitarat-dev/Javascript-Shopping-Cart-Logic.git">📂 Repository</a>
+  <td width="50%">
+      <h2>🎨 Sass-Portfolio-Landing-Page</h2>
+      <p>Responsive landing page built with Sass architecture, reusable style structure, and modern UI section layout.
       </p>
       <p align="center">
-        <a href="https://umitarat-dev.github.io/Javascript-Shopping-Cart-Logic/">
-          <img src="./frontend-gif/checkout.gif" height="150"/>
+        <img src="https://img.shields.io/badge/Structure-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Styling-Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://umitarat-dev.github.io/Sass-Portfolio-Landing-Page/">🔗 Live Demo</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/umitarat-dev/Sass-Portfolio-Landing-Page.git">📂 Repository</a>
+      </p>
+      <p align="center">
+        <a href="https://umitarat-dev.github.io/Sass-Portfolio-Landing-Page/">
+          <img src="frontend-gif/Sass.gif" height="150"/>
         </a>
       </p>
     </td>
@@ -289,22 +301,19 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>📌 Recipe App React - MultiPage (Edamam API)</h2>
-      <p>Advanced Recipe Search application integrated with Edamam API. Features secure environment configuration on Vercel, asynchronous data fetching, and modular Styled Components architecture.
-      </p>
+      <h2>🛒 Javascript-Shopping-Cart-Logic</h2>
+      <p>Interactive shopping cart application built with Vanilla JavaScript. Demonstrates advanced DOM manipulation using Event Delegation (Capturing/Bubbling), real-time pricing calculations, and Web Storage API integration.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Styling-Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Routing-React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
-      </p>      
-      <p align="center">
-        <a href="https://recipe-app-react-umitdev.vercel.app/">🔗 Live Demo</a>
+        <img src="https://img.shields.io/badge/Logic-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Storage-LocalStorage-323330?style=flat&logoColor=white"/>
+      </p>      <p align="center">
+        <a href="https://umitarat-dev.github.io/Javascript-Shopping-Cart-Logic/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/umitarat-dev/Recipe-App-React.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Javascript-Shopping-Cart-Logic.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://recipe-app-react-umitdev.vercel.app/">
-          <img src="https://raw.githubusercontent.com/umitarat-dev/Recipe-App-React/main/img/recipe-app.gif" height="150"/>
+        <a href="https://umitarat-dev.github.io/Javascript-Shopping-Cart-Logic/">
+          <img src="./frontend-gif/checkout.gif" height="150"/>
         </a>
       </p>
     </td>
@@ -430,7 +439,8 @@ Hi, I’m **Ümit**.
       </p>
     </td>
   </tr>
-</table>
+  </table>
+</details>
 
 <br>
 <br>
@@ -570,6 +580,14 @@ Hi, I’m **Ümit**.
       </p>
     </td>
   </tr>
+  </table>
+
+  <br>
+
+<details>
+  <summary><b>⚙️ View More Backend Systems & APIs</b></summary>
+  <br>
+  <table>
 
   <!-- Row 4 -->
   <tr>
@@ -685,6 +703,8 @@ Hi, I’m **Ümit**.
     </td>
   </tr>
 </table>
+</details>
+
 
 <br>
 
