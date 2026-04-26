@@ -66,7 +66,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>✈️ Flight App (Fullstack)</h2>
+      <h2 align="center">✈️ Flight App (Fullstack)</h2>
       <p>A production-ready Flight Reservation system featuring <b>Token Authentication</b> and role-based access control. Implemented a professional monorepo architecture with isolated 
 
   **Staging** and **Production** workflows.
@@ -98,7 +98,7 @@ Hi, I’m **Ümit**.
   <!-- Row 2 -->
   <tr>
     <td width="50%">
-      <h2>📝 Blog App - React (Firebase & Netlify)</h2>
+      <h2 align="center">📝 Blog App - React (Firebase & Netlify)</h2>
 <p>Mobile-first blog platform with Firebase Authentication, Firestore CRUD, image upload, like interactions, protected routes, and persistent dark/light mode.
 </p>
       <p align="center">
@@ -122,7 +122,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>📰 News App - React (Firebase & Netlify)</h2>
+      <h2 align="center">📰 News App - React (Firebase & Netlify)</h2>
       <p>React news app with Firebase Auth, protected routing, Redux Toolkit state management, and secure NewsAPI integration via Netlify Functions.
       </p>
       <p align="center">
@@ -148,7 +148,7 @@ Hi, I’m **Ümit**.
   <!-- Row 3 -->
   <tr>
       <td width="50%">
-      <h2>📌 Recipe App React - MultiPage (Edamam API)</h2>
+      <h2 align="center">📌 Recipe App React - MultiPage (Edamam API)</h2>
       <p>Advanced Recipe Search application integrated with Edamam API. Features secure environment configuration on Vercel, asynchronous data fetching, and modular Styled Components architecture.
       </p>
       <p align="center">
@@ -168,7 +168,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>🎬 Movie App – Firebase Auth</h2>
+      <h2 align="center">🎬 Movie App – Firebase Auth</h2>
       <p>Movie discovery app using Firebase Authentication and TMDB API with route-based navigation and reusable React components.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -198,7 +198,7 @@ Hi, I’m **Ümit**.
   <!-- Row 4 -->
   <tr>
       <td width="50%">
-      <h2>📌 Contacts App - React (Firebase)</h2>
+      <h2 align="center">📌 Contacts App - React (Firebase)</h2>
       <p>Contact management app with Firebase Authentication, user-based data isolation, and full CRUD operations in a responsive Material UI interface.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -218,7 +218,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>🅱️ Bootstrap-Education-Landing-Page</h2>
+      <h2 align="center">🅱️ Bootstrap-Education-Landing-Page</h2>
       <p>Responsive Education Landing Page built with Bootstrap 5. Highlights the effective use of Bootstrap's grid system, utility classes, and interactive components like Carousels, Modals, and Tabs for a seamless user experience.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Structure-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -240,7 +240,7 @@ Hi, I’m **Ümit**.
   <!-- Row 5 -->
   <tr>
   <td width="50%">
-      <h2>🎨 Sass-Portfolio-Landing-Page</h2>
+      <h2 align="center">🎨 Sass-Portfolio-Landing-Page</h2>
       <p>Responsive landing page built with Sass architecture, reusable style structure, and modern UI section layout.
       </p>
       <p align="center">
@@ -259,7 +259,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>📋 Tutorial Manager React Client</h2>
+      <h2 align="center">📋 Tutorial Manager React Client</h2>
       <p>Frontend client for a Full-Stack Tutorial Management system. Orchestrates secure, environment-driven CRUD operations using React and Axios, integrated with a live Django REST Framework backend.
       </p>
       <p align="center">
@@ -281,7 +281,7 @@ Hi, I’m **Ümit**.
   <!-- Row 6 -->
   <tr>
     <td width="50%">
-      <h2>📱 iOS Calculator</h2>
+      <h2 align="center">📱 iOS Calculator</h2>
       <p>High-fidelity iOS Calculator clone developed with Vanilla JavaScript. Orchestrates complex arithmetic logic and seamless DOM manipulations for a premium user experience.
       </p>
       <p align="center">
@@ -299,7 +299,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>🛒 Javascript-Shopping-Cart-Logic</h2>
+      <h2 align="center">🛒 Javascript-Shopping-Cart-Logic</h2>
       <p>Interactive shopping cart application built with Vanilla JavaScript. Demonstrates advanced DOM manipulation using Event Delegation (Capturing/Bubbling), real-time pricing calculations, and Web Storage API integration.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Logic-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -320,7 +320,7 @@ Hi, I’m **Ümit**.
   <!-- Row 7 -->
   <tr>
     <td width="50%">
-      <h2>🗺️ Tour Places</h2>
+      <h2 align="center">🗺️ Tour Places</h2>
       <p>React travel listing app with reusable card components, dynamic rendering, and responsive Sass-based UI styling.
       </p>
       <p align="center">
@@ -338,7 +338,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>🗣️ Language Cards</h2>
+      <h2 align="center">🗣️ Language Cards</h2>
       <p>Interactive React flashcard app with component-based architecture and state-driven language card rendering.
       </p>
       <p align="center">
@@ -360,7 +360,7 @@ Hi, I’m **Ümit**.
   <!-- Row 8 -->
   <tr>
     <td width="50%">
-      <h2>📚 Tutorial FullStack (React + Django)</h2>
+      <h2 align="center">📚 Tutorial FullStack (React + Django)</h2>
       <p>Full-stack CRUD application using React frontend, Django REST backend, and API-based client-server data flow.
       </p>
       <p align="center">
@@ -378,7 +378,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>✅ ToDo App</h2>
+      <h2 align="center">✅ ToDo App</h2>
       <p>Task management app with create/update/delete flows and LocalStorage-based persistence for user tasks.
       </p>
       <p align="center">
@@ -401,7 +401,7 @@ Hi, I’m **Ümit**.
   <!-- Row 9 -->
   <tr>
     <td width="50%">
-      <h2>🚩 Flag App – REST API</h2>
+      <h2 align="center">🚩 Flag App – REST API</h2>
       <p>JavaScript country explorer app consuming REST API data with search, filtering, and dynamic DOM rendering.
       </p>
       <p align="center">
@@ -419,7 +419,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2>⚛️ Modern Multipage Website Layout</h2>
+      <h2 align="center">⚛️ Modern Multipage Website Layout</h2>
       <p>Multi-page React application with React Router navigation, reusable layout components, and responsive page structure.
       </p>
       <p align="center">
@@ -461,7 +461,7 @@ Hi, I’m **Ümit**.
   <tr>
     <!-- Card 1 -->
     <td width="50%" valign="top">
-      <h2>✈️ Flight Reservation REST API</h2>
+      <h2 align="center">✈️ Flight Reservation REST API</h2>
       <p>Django REST Framework API for flight reservation workflows including scheduling, booking, and role-based endpoint access.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -480,7 +480,7 @@ Hi, I’m **Ümit**.
     </td>
     <!-- Card 2 -->
     <td width="50%" valign="top">
-      <h2>📝 Blog REST API</h2>
+      <h2 align="center">📝 Blog REST API</h2>
       <p>RESTful blog backend with JWT authentication and CRUD endpoints for posts, categories, and user-specific content operations.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
@@ -503,7 +503,7 @@ Hi, I’m **Ümit**.
   <tr>
     <!-- Card 1 -->
     <td width="50%" valign="top">
-      <h2>👤 Personnel Management REST API</h2>
+      <h2 align="center">👤 Personnel Management REST API</h2>
       <p>Personnel management API with token-based authentication, filtering, and permission-controlled CRUD operations.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
@@ -522,7 +522,7 @@ Hi, I’m **Ümit**.
     </td>
     <!-- Card 2 -->
     <td width="50%" valign="top">
-      <h2>✅ Todo REST API</h2>
+      <h2 align="center">✅ Todo REST API</h2>
       <p>Task management REST API with authenticated CRUD endpoints and integrated API documentation via Swagger and Redoc.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
@@ -543,7 +543,7 @@ Hi, I’m **Ümit**.
   <!-- Row 3 -->
   <tr>
     <td width="50%" valign="top">
-      <h2>📝 Quiz REST API</h2>
+      <h2 align="center">📝 Quiz REST API</h2>
       <p>Quiz platform API supporting categories, question sets, answer flows, and score calculation logic.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
@@ -560,7 +560,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2>📊 Stock API – REST API</h2>
+      <h2 align="center">📊 Stock API – REST API</h2>
       <p>Inventory management API with purchase/sales workflows, stock tracking, and relational data modeling.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
@@ -589,7 +589,7 @@ Hi, I’m **Ümit**.
   <!-- Row 4 -->
   <tr>
     <td width="50%" valign="top">
-      <h2>🚗 Rent A Car REST API</h2>
+      <h2 align="center">🚗 Rent A Car REST API</h2>
       <p>Car rental backend API implementing vehicle CRUD, reservation management, and availability-based business rules.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
@@ -606,7 +606,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2>🔐 Google Auth API – Allauth</h2>
+      <h2 align="center">🔐 Google Auth API – Allauth</h2>
       <p>Django authentication API integrating Google OAuth2 (django-allauth) for secure social login and account flow handling.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Auth-Django%20Allauth-0A84FF?style=flat&logo=django&logoColor=white"/>
@@ -627,7 +627,7 @@ Hi, I’m **Ümit**.
   <!-- Row 5 -->
   <tr>
     <td width="50%" valign="top">
-      <h2>📝 Blog App – FullStack</h2>
+      <h2 align="center">📝 Blog App – FullStack</h2>
       <p>Full-stack Django blog app combining REST endpoints with template-based UI and complete content CRUD workflows.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Backend-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
@@ -644,7 +644,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2>✅ Todo App – FullStack</h2>
+      <h2 align="center">✅ Todo App – FullStack</h2>
       <p>Full-stack task manager with Django Templates UI, authentication, and REST-backed task lifecycle operations.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Backend-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
@@ -665,7 +665,7 @@ Hi, I’m **Ümit**.
   <!-- Row 6 -->
   <tr>
     <td width="50%" valign="top">
-      <h2>🌦️ Weather App – FullStack</h2>
+      <h2 align="center">🌦️ Weather App – FullStack</h2>
       <p>Weather search application with Django Templates frontend and REST API integration for location-based forecast retrieval.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Backend-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
@@ -682,7 +682,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2>🍕 Pizza App – FullStack</h2>
+      <h2 align="center">🍕 Pizza App – FullStack</h2>
       <p>Full-stack ordering system with Django Templates interface and REST API backend for pizza order processing.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Backend-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
