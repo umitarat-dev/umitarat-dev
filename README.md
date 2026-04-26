@@ -360,20 +360,20 @@ Hi, I’m **Ümit**.
   <!-- Row 8 -->
   <tr>
     <td width="50%">
-      <h2 align="center">📚 Tutorial FullStack (React + Django)</h2>
+      <h2 align="center">🚀 Persistent Taskflow</h2>
       <p>Full-stack CRUD application using React frontend, Django REST backend, and API-based client-server data flow.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Backend-Django-092E20?style=flat&logo=django&logoColor=white"/>
       </p>      <p align="center">
-        <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">🔗 Live Demo</a>
+        <a href="https://persistent-taskflow-umitdev.vercel.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-Tutorial-FullStack.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Persistent-Taskflow.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/React-Project-Tutorial-FullStack/">
-          <img src="./frontend-gif1/tutorial.gif" height="150"/>
+        <a href="https://persistent-taskflow-umitdev.vercel.app/">
+          <img src="https://raw.githubusercontent.com/umitarat-dev/Persistent-Taskflow/main/assets/Persist-Taskflow.gif" height="150"/>
         </a>
       </p>
     </td>
