@@ -373,7 +373,7 @@ Hi, I’m **Ümit**.
       </p>
       <p align="center">
         <a href="https://persistent-taskflow-umitdev.vercel.app/">
-          <img src="https://raw.githubusercontent.com/umitarat-dev/Persistent-Taskflow/main/assets/Persist-Taskflow.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/Persistent-Taskflow/main/assets/Persistent-Taskflow.gif" height="150"/>
         </a>
       </p>
     </td>
