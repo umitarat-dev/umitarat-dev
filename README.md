@@ -324,12 +324,11 @@ Hi, I’m **Ümit**.
       <p>React travel listing app with reusable card components, dynamic rendering, and responsive Sass-based UI styling.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/SASS-Styling-CC6699?logo=sass&logoColor=white" />
-        <img src="https://img.shields.io/badge/Logic-Component%20Mapping-F7DF1E?logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel&logoColor=white" />
-      </p>      
-      <p align="center">
+        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Styling-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
+        <img src="https://img.shields.io/badge/Logic-Mapping-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      </p>      <p align="center">
         <a href="https://tour-experience-explorer-umitdev.vercel.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/umitarat-dev/Tour-Experience-Explorer.git">📂 Repository</a>
