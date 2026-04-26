@@ -37,7 +37,7 @@ Hi, I’m **Ümit**.
   <!-- Row 1 -->
   <tr>
     <td width="50%">
-      <h2>🏎️ Rent A Car App (Fullstack)</h2>
+      <h2 align="center">🏎️ Rent A Car App (Fullstack)</h2>
       <p>A production-grade Fullstack Rent A Car application Implemented an advanced development workflow with isolated 
 
   **Staging** and **Production** environments.
@@ -194,8 +194,6 @@ Hi, I’m **Ümit**.
   <summary><b>🔍 View More Frontend Projects (Click to expand)</b></summary>
   <br>
   <table>
-
-
 
   <!-- Row 4 -->
   <tr>
@@ -442,7 +440,6 @@ Hi, I’m **Ümit**.
   </table>
 </details>
 
-<br>
 <br>
 <br>
 
@@ -705,9 +702,8 @@ Hi, I’m **Ümit**.
 </table>
 </details>
 
-
 <br>
-
+<br>
 
 # 🛠 Tools  
 
