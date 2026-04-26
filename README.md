@@ -364,9 +364,11 @@ Hi, I’m **Ümit**.
       <p>A professional React task management system utilizing LocalStorage for permanent data retention. Features dynamic state toggling, interactive UI feedback, and optimized performance.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Backend-Django-092E20?style=flat&logo=django&logoColor=white"/>
-      </p>      <p align="center">
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Storage-LocalStorage-F7DF1E?logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel&logoColor=white" />
+      </p>      
+      <p align="center">
         <a href="https://persistent-taskflow-umitdev.vercel.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/umitarat-dev/Persistent-Taskflow.git">📂 Repository</a>
