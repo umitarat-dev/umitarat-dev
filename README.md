@@ -320,20 +320,23 @@ Hi, I’m **Ümit**.
   <!-- Row 7 -->
   <tr>
     <td width="50%">
-      <h2 align="center">🗺️ Tour Places</h2>
+      <h2 align="center">🗺️ Tour Experience Explorer</h2>
       <p>React travel listing app with reusable card components, dynamic rendering, and responsive Sass-based UI styling.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Styling-Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
-      </p>      <p align="center">
-        <a href="https://umit8098.github.io/React_Proj_Tour_Places/">🔗 Live Demo</a>
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/SASS-Styling-CC6699?logo=sass&logoColor=white" />
+        <img src="https://img.shields.io/badge/Logic-Component%20Mapping-F7DF1E?logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel&logoColor=white" />
+      </p>      
+      <p align="center">
+        <a href="https://tour-experience-explorer-umitdev.vercel.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React_Proj_Tour_Places.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Tour-Experience-Explorer.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
-          <img src="./frontend-gif1/tour-project.gif" height="150"/>
+        <a href="https://tour-experience-explorer-umitdev.vercel.app/">
+          <img src="https://raw.githubusercontent.com/umitarat-dev/Tour-Experience-Explorer/main/assets/Tour-Places.gif" height="150"/>
         </a>
       </p>
     </td>
