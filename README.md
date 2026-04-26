@@ -705,6 +705,17 @@ Hi, I’m **Ümit**.
 <br>
 <br>
 
+# ☁️ Cloud & Deployment  
+
+<a href="#"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="50"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" height="50"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/render-1.svg" height="50"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" height="50"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-original.svg" height="50"/></a> <br>
+
+<br>
+
 # 🛠 Tools  
 
 <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="50"/></a>
