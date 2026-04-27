@@ -385,21 +385,23 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2 align="center">✅ ToDo App</h2>
+      <h2 align="center">📝 VanillaJS TaskVault</h2>
       <p>Task management app with create/update/delete flows and LocalStorage-based persistence for user tasks.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Logic-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Storage-LocalStorage-323330?style=flat&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Frontend-Vanilla--JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Storage-LocalStorage-success?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Styling-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deployment-GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">🔗 Live Demo</a>
+        <a href="https://umitarat-dev.github.io/VanillaJS-TaskVault/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project-js-ToDo-LocalStorage.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/VanillaJS-TaskVault.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/Project-js-ToDo-LocalStorage/">
-          <img src="./frontend-gif1/ToDo.gif" height="150"/>
+        <a href="https://umitarat-dev.github.io/VanillaJS-TaskVault/">
+          <img src="https://raw.githubusercontent.com/umitarat-dev/VanillaJS-TaskVault/main/assets/VanillaJS-TaskVault.gif" height="150"/>
         </a>
       </p>
     </td>
