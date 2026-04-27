@@ -410,20 +410,23 @@ Hi, I’m **Ümit**.
   <!-- Row 9 -->
   <tr>
     <td width="50%">
-      <h2 align="center">🚩 Flag App – REST API</h2>
-      <p>JavaScript country explorer app consuming REST API data with search, filtering, and dynamic DOM rendering.
+      <h2 align="center">🌍 Global Insight Explorer</h2>
+      <p>gAn advanced geography explorer fetching real-time global data. Demonstrates high-level asynchronous patterns, concurrent API requests using Promise.all, and UI consistency management through render sequencing.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Logic-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Data-REST%20API-02569B?style=flat&logoColor=white"/>
-      </p>      <p align="center">
-        <a href="https://umit8098.github.io/Project-js-Flag-App/">🔗 Live Demo</a>
+        <img src="https://img.shields.io/badge/Frontend-Vanilla--JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Asynchronous-Fetch%20API-00B4D8?style=flat&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UI-Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deployment-GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white"/>
+      </p>      
+      <p align="center">
+        <a href="https://umitarat-dev.github.io/Global-Insight-Explorer/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project-js-Flag-App.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Global-Insight-Explorer.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/Project-js-Flag-App/">
-          <img src="./frontend-gif1/flag-app.gif" height="150"/>
+        <a href="https://umitarat-dev.github.io/Global-Insight-Explorer/">
+          <img src="https://raw.githubusercontent.com/umitarat-dev/Global-Insight-Explorer/main/assets/Global-Insight-Explorer.gif" height="150"/>
         </a>
       </p>
     </td>
