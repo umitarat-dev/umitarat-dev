@@ -340,20 +340,23 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2 align="center">🗣️ Language Cards</h2>
-      <p>Interactive React flashcard app with component-based architecture and state-driven language card rendering.
+      <h2 align="center">🗣️ Polyglot-DevCards</h2>
+      <p>A dynamic programming language gallery featuring real-time search and interactive card-flipping logic. Built with React to demonstrate advanced state handling, conditional rendering, and custom UI design patterns.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/UI-CSS3%20Grid-1572B6?style=flat&logo=css3&logoColor=white"/>
-      </p>      <p align="center">
-        <a href="https://umit8098.github.io/React-Project-Language-Cards/">🔗 Live Demo</a>
+        <img src="https://img.shields.io/badge/Styling-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Logic-State%20Toggling-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+      </p>      
+      <p align="center">
+        <a href="https://polyglot-dev-cards.vercel.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-Language-Cards.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Polyglot-DevCards.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/React-Project-Language-Cards/">
-          <img src="./frontend-gif1/Language-Card.gif" height="150"/>
+        <a href="https://polyglot-dev-cards.vercel.app/">
+          <img src="https://raw.githubusercontent.com/umitarat-dev/Polyglot-DevCards/main/assets/Polyglot-DevCards.gif" height="150"/>
         </a>
       </p>
     </td>
