@@ -411,7 +411,7 @@ Hi, I’m **Ümit**.
   <tr>
     <td width="50%">
       <h2 align="center">🌍 Global Insight Explorer</h2>
-      <p>gAn advanced geography explorer fetching real-time global data. Demonstrates high-level asynchronous patterns, concurrent API requests using Promise.all, and UI consistency management through render sequencing.
+      <p>An advanced geography explorer fetching real-time global data. Demonstrates high-level asynchronous patterns, concurrent API requests using Promise.all, and UI consistency management through render sequencing.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Frontend-Vanilla--JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
