@@ -431,20 +431,23 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%">
-      <h2 align="center">⚛️ Modern Multipage Website Layout</h2>
-      <p>Multi-page React application with React Router navigation, reusable layout components, and responsive page structure.
+      <h2 align="center">⚛️ Modern-Route-Matrix</h2>
+      <p>An advanced React 19 architecture featuring React Router v7. Demonstrates professional routing patterns, including private route orchestration, nested layout management, and dynamic data synchronization.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Routing-React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
-      </p>      <p align="center">
-        <a href="https://umit8098.github.io/React-Project-Router/">🔗 Live Demo</a>
+        <img src="https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Routing-React%20Router%20v7-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Auth-Private%20Routing-red?style=flat"/>
+        <img src="https://img.shields.io/badge/UI-Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+      </p>      
+      <p align="center">
+        <a href="https://modern-route-matrix.vercel.app/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/React-Project-Router.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/Modern-Route-Matrix.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8098.github.io/React-Project-Router/">
-          <img src="./frontend-gif2/router-project.gif" height="150"/>
+        <a href="https://modern-route-matrix.vercel.app/">
+          <img src="https://raw.githubusercontent.com/umitarat-dev/Modern-Route-Matrix/main/assets/Modern-Route-Matrix.gif" height="150"/>
         </a>
       </p>
     </td>
