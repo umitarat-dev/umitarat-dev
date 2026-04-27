@@ -386,7 +386,7 @@ Hi, I’m **Ümit**.
     </td>
     <td width="50%">
       <h2 align="center">📝 VanillaJS TaskVault</h2>
-      <p>Task management app with create/update/delete flows and LocalStorage-based persistence for user tasks.
+      <p>A high-performance task management application engineered with Vanilla JavaScript. Features seamless LocalStorage persistence, optimized DOM manipulation using DocumentFragments, and event-driven state synchronization for reliable data retention without external frameworks.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Frontend-Vanilla--JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
