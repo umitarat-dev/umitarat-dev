@@ -401,7 +401,7 @@ Hi, I’m **Ümit**.
       </p>
       <p align="center">
         <a href="https://umitarat-dev.github.io/VanillaJS-TaskVault/">
-          <img src="https://raw.githubusercontent.com/umitarat-dev/VanillaJS-TaskVault/main/assets/VanillaJS-TaskVault.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/VanillaJS-TaskVault/main/VanillaJS-TaskVault.gif" height="150"/>
         </a>
       </p>
     </td>
