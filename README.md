@@ -489,7 +489,7 @@ Hi, I’m **Ümit**.
       </p>
       <p align="center">
         <a href="https://flight-reservation-api-production.up.railway.app/swagger/">
-          <img src="./backend-gif1/Flight_App_1.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/flight-reservation-api/main/assets/flight-reservation-api.gif" height="150"/>
         </a>
       </p>
     </td>
