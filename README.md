@@ -481,12 +481,12 @@ Hi, I’m **Ümit**.
         <strong>Production-ready</strong> API featuring <strong>Docker</strong> orchestration, <strong>PostgreSQL</strong> integration, and automated cloud deployment.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Railway-131313?style=flat&logo=railway&logoColor=white" />
-      </p>      
+        <img src="https://img.shields.io/badge/Backend-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hosting-Railway-131313?style=flat&logo=railway&logoColor=white" />
+        <img src="https://img.shields.io/badge/API%20Docs-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+      </p>    
       <p align="center">
         <a href="https://flight-reservation-api-production.up.railway.app/swagger/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
