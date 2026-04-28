@@ -476,13 +476,18 @@ Hi, I’m **Ümit**.
   <tr>
     <!-- Card 1 -->
     <td width="50%" valign="top">
-      <h2 align="center">✈️ Flight Reservation REST API</h2>
-      <p>Django REST Framework API for flight reservation workflows including scheduling, booking, and role-based endpoint access.</p>
+      <h2 align="center">✈️ Flight Reservation API</h2>
       <p align="center">
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/API-RESTful-0A84FF?style=flat&logo=json&logoColor=white" />
-      </p>      <p align="center">
+        <strong>Production-ready</strong> API featuring <strong>Docker</strong> orchestration, <strong>PostgreSQL</strong> integration, and automated cloud deployment.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Railway-131313?style=flat&logo=railway&logoColor=white" />
+      </p>      
+      <p align="center">
         <a href="https://flight-reservation-api-production.up.railway.app/swagger/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/umitarat-dev/flight-reservation-api.git">📂 Repository</a>
