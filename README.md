@@ -483,12 +483,12 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/API-RESTful-0A84FF?style=flat&logo=json&logoColor=white" />
       </p>      <p align="center">
-        <a href="https://umit8113.pythonanywhere.com/">🔗 Live Demo</a>
+        <a href="https://flight-reservation-api-production.up.railway.app/swagger/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Flight_App_CH-12.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/flight-reservation-api.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8113.pythonanywhere.com/">
+        <a href="https://flight-reservation-api-production.up.railway.app/swagger/">
           <img src="./backend-gif1/Flight_App_1.gif" height="150"/>
         </a>
       </p>
