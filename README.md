@@ -50,6 +50,7 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/Backend-Django%20REST-0C4B33?style=flat&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Frontend-React%20(Vite)-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Serverless_DB-Neon-00E599?style=flat&logo=neon&logoColor=black" />
         <img src="https://img.shields.io/badge/Storage-AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white" />
         <img src="https://img.shields.io/badge/Hosting-Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
         <img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
@@ -79,6 +80,7 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/Backend-Django%20REST-0C4B33?style=flat&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Frontend-React%20(Vite)-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Serverless_DB-Neon-00E599?style=flat&logo=neon&logoColor=black" />
         <img src="https://img.shields.io/badge/Storage-AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white" />
         <img src="https://img.shields.io/badge/Hosting-Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
         <img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
@@ -506,7 +508,8 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Logic-CRUD%20Operations-blue?style=flat" />
         <img src="https://img.shields.io/badge/Auth-Token%20JWT-red?style=flat" />
-      </p>      <p align="center">
+      </p>      
+      <p align="center">
         <a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Blog_App_CH-12_V.02.git">📂 Repository</a>
