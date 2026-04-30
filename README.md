@@ -519,7 +519,7 @@ Hi, I’m **Ümit**.
       </p>
       <p align="center">
         <a href="https://umit8114.pythonanywhere.com/">
-          <img src="./backend-gif1/Blog_App_RF_CH-12_V.02-2.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/blog-api/main/assets/blog-api.gif" height="150"/>
         </a>
       </p>
     </td>
