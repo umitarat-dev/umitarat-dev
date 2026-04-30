@@ -503,16 +503,19 @@ Hi, I’m **Ümit**.
     <!-- Card 2 -->
     <td width="50%" valign="top">
       <h2 align="center">📝 Blog REST API</h2>
-      <p>RESTful blog backend with JWT authentication and CRUD endpoints for posts, categories, and user-specific content operations.</p>
+      <p><strong>Production-grade blogging backend</strong> featuring a hierarchical data model, automated analytics (view counts), and secure nested routing for complex interactions.</p>      
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Logic-CRUD%20Operations-blue?style=flat" />
         <img src="https://img.shields.io/badge/Auth-Token%20JWT-red?style=flat" />
+        <img src="https://img.shields.io/badge/Django-5.0.6-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/DRF-3.17-red?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Auth-JWT-B8125E?style=flat&logo=json-web-tokens&logoColor=white" />
       </p>      
       <p align="center">
         <a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Blog_App_CH-12_V.02.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/blog-api">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8114.pythonanywhere.com/">
