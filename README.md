@@ -538,7 +538,7 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/API%20Docs-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
       </p>      
       <p align="center">
-        <a href="https://umit8100.pythonanywhere.com/">🔗 Live Demo</a>
+        <a href="https://umit8100.pythonanywhere.com/swagger/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/umitarat-dev/personnel-management-api.git">📂 Repository</a>
       </p>
