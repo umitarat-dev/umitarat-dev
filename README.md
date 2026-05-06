@@ -530,19 +530,21 @@ Hi, I’m **Ümit**.
     <!-- Card 1 -->
     <td width="50%" valign="top">
       <h2 align="center">👤 Personnel Management REST API</h2>
-      <p>Personnel management API with token-based authentication, filtering, and permission-controlled CRUD operations.</p>
+      <p align="center"><strong>Production-ready</strong> API featuring <strong>Docker</strong> orchestration, <strong>PostgreSQL</strong> integration, and comprehensive permission-based CRUD logic.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Architecture-MVT-orange?style=flat" />
-        <img src="https://img.shields.io/badge/Permissions-Custom%20Logic-lightgrey?style=flat" />
-      </p>      <p align="center">
+        <img src="https://img.shields.io/badge/Backend-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/API%20Docs-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+      </p>      
+      <p align="center">
         <a href="https://umit8100.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project_Django_Rest_Framawork_Personnel_App_CH-12.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/personnel-management-api.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8100.pythonanywhere.com/">
-          <img src="./backend-gif1/personnel_swagger.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/blog-api/main/assets/blog-api.gif" height="150"/>
         </a>
       </p>
     </td>
