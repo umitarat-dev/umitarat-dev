@@ -543,7 +543,7 @@ Hi, I’m **Ümit**.
         <a href="https://github.com/umitarat-dev/personnel-management-api.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8100.pythonanywhere.com/">
+        <a href="https://umit8100.pythonanywhere.com/swagger/">
           <img src="https://raw.githubusercontent.com/umitarat-dev/blog-api/main/assets/blog-api.gif" height="150"/>
         </a>
       </p>
