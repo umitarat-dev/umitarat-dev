@@ -544,7 +544,7 @@ Hi, I’m **Ümit**.
       </p>
       <p align="center">
         <a href="https://umit8100.pythonanywhere.com/swagger/">
-          <img src="https://raw.githubusercontent.com/umitarat-dev/blog-api/main/assets/blog-api.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/personnel-management-api/assets/personnel-api.gif" height="150"/>
         </a>
       </p>
     </td>
