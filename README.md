@@ -556,13 +556,13 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Data-Serialization-yellow?style=flat" />
       </p>      <p align="center">
-        <a href="https://umit8101.pythonanywhere.com/">🔗 Live Demo</a>
+        <a href="https://umit8101.pythonanywhere.com/todo">🔗 Live Demo (Browsable API)</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Todo_App_CH-12.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/todo-rest-api">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8101.pythonanywhere.com/">
-          <img src="./backend-gif1/ToDo_App-2.gif" height="150"/>
+        <a href="https://umit8101.pythonanywhere.com/todo/">
+          <img src="https://raw.githubusercontent.com/umitarat-dev/todo-rest-api/main/assets/ToDo_App-2.gif" height="150"/>
         </a>
       </p>
     </td>
