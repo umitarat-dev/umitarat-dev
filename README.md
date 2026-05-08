@@ -553,8 +553,6 @@ Hi, I’m **Ümit**.
       <h2 align="center">✅ Todo REST API</h2>
       <p>A lightweight task management API featuring full CRUD capabilities, priority-based organization, and an intuitive Browsable API interface.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data-Serialization-yellow?style=flat" />
         <img src="https://img.shields.io/badge/Backend-Django%205.2-092E20?style=flat&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/Interface-Browsable%20API-red?style=flat" />
