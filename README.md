@@ -632,7 +632,7 @@ Hi, I’m **Ümit**.
       </p>
       <p align="center">
         <a href="https://umit8104.pythonanywhere.com/swagger/">
-          <img src="./backend-gif1/Rent_A_Car_App_Test_Postman.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/rent-a-car-rest-api/main/assets/rent-a-car.gif" height="150"/>
         </a>
       </p>
     </td>
