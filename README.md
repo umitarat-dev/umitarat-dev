@@ -513,7 +513,7 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/Auth-JWT-B8125E?style=flat&logo=json-web-tokens&logoColor=white" />
       </p>      
       <p align="center">
-        <a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo</a>
+        <a href="https://umit8114.pythonanywhere.com/">🔗 Live Demo (Swagger)</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/umitarat-dev/blog-api">📂 Repository</a>
       </p>
@@ -538,7 +538,7 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/API%20Docs-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
       </p>      
       <p align="center">
-        <a href="https://umit8100.pythonanywhere.com/swagger/">🔗 Live Demo</a>
+        <a href="https://umit8100.pythonanywhere.com/swagger/">🔗 Live Demo (Swagger)</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/umitarat-dev/personnel-management-api.git">📂 Repository</a>
       </p>
