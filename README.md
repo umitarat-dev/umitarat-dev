@@ -626,12 +626,12 @@ Hi, I’m **Ümit**.
         <img src="https://img.shields.io/badge/Auth-JWT-black?style=flat&logo=json-web-tokens" />
       </p>      
       <p align="center">
-        <a href="https://umit8104.pythonanywhere.com/">🔗 Live Demo</a>
+        <a href="https://umit8104.pythonanywhere.com/swagger/">🔗 Live Demo (Swagger)</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Rent_A_Car_App_CH-12.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/rent-a-car-rest-api">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8104.pythonanywhere.com/">
+        <a href="https://umit8104.pythonanywhere.com/swagger/">
           <img src="./backend-gif1/Rent_A_Car_App_Test_Postman.gif" height="150"/>
         </a>
       </p>
