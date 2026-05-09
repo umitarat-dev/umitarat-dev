@@ -619,11 +619,13 @@ Hi, I’m **Ümit**.
   <tr>
     <td width="50%" valign="top">
       <h2 align="center">🚗 Rent A Car REST API</h2>
-      <p>Car rental backend API implementing vehicle CRUD, reservation management, and availability-based business rules.</p>
+      <p>Advanced car rental backend with dynamic availability tracking, JWT-secured endpoints, and comprehensive Swagger documentation.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Business-Rental%20Logic-D32F2F?style=flat" />
-      </p>      <p align="center">
+        <img src="https://img.shields.io/badge/Backend-Django%205.2-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docs-Swagger--UI-85EA2D?style=flat&logo=swagger&logoColor=black" />
+        <img src="https://img.shields.io/badge/Auth-JWT-black?style=flat&logo=json-web-tokens" />
+      </p>      
+      <p align="center">
         <a href="https://umit8104.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Rent_A_Car_App_CH-12.git">📂 Repository</a>
