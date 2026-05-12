@@ -744,12 +744,13 @@ Hi, I’m **Ümit**.
 <a href="#"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="50"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" height="50"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" height="50"/></a>
+
 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="25"/>
 
-<a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" height="50"/></a>
 
 
 <a href="#"><img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="50"/></a>
