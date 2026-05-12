@@ -572,19 +572,21 @@ Hi, I’m **Ümit**.
   <!-- Row 3 -->
   <tr>
     <td width="50%" valign="top">
-      <h2 align="center">📝 Quiz REST API</h2>
-      <p>Quiz platform API supporting categories, question sets, answer flows, and score calculation logic.</p>
+      <h2 align="center">📝 Quiz Platform Rest API</h2>
+      <p><strong>Professional Quiz Engine</strong> featuring N+1 optimized queries, automated scoring, and hierarchical content management.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Logic-Algorithm%20Based-9c27b0?style=flat" />
-      </p>      <p align="center">
-        <a href="https://umit8102.pythonanywhere.com/">🔗 Live Demo</a>
+        <img src="https://img.shields.io/badge/Performance-N+1%20Optimized-orange?style=flat&logo=speedtest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docs-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+      </p>      
+      <p align="center">
+        <a href="https://umit8102.pythonanywhere.com">🔗 Live Demo (Swagger)</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Quiz_App_CH-11_V.01.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/quiz-platform-rest-api.git">📂 Repository</a>
       </p>
       <p align="center">
-        <a href="https://umit8102.pythonanywhere.com/">
-          <img src="./backend-gif1/quiz_app.gif" height="150"/>
+        <a href="https://umit8102.pythonanywhere.com">
+          <img src="https://raw.githubusercontent.com/umitarat-dev/quiz-platform-rest-api/main/assets/quiz-api-1.gif" height="150"/>
         </a>
       </p>
     </td>
