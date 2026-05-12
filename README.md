@@ -746,13 +746,9 @@ Hi, I’m **Ümit**.
 <a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" height="50"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white" height="50"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="50"/></a>
 
 <a href="#"><img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="50"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/render-1.svg" height="50"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" height="50"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" height="50"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-original.svg" height="50"/></a> <br>
 
 <br>
 
