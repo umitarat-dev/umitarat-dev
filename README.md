@@ -743,6 +743,9 @@ Hi, I’m **Ümit**.
 <a href="#"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="50"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="50"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" height="50"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="50"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" height="50"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50"/></a>
 <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/render-1.svg" height="50"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" height="50"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-original.svg" height="50"/></a> <br>
