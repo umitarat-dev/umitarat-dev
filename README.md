@@ -591,19 +591,21 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center">📊 Stock API – REST API</h2>
-      <p>Inventory management API with purchase/sales workflows, stock tracking, and relational data modeling.</p>
+      <h2 align="center">📊 Stock Management Rest API</h2>
+      <p align="center">Advanced inventory tracking with <b>Atomic Transactions</b> and <b>Role-Based Access Control</b>.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/System-Inventory%20Tracking-2E7D32?style=flat" />
-      </p>      <p align="center">
-        <a href="https://umit8103.pythonanywhere.com/">🔗 Live Demo</a>
+        <img src="https://img.shields.io/badge/Backend-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database-PostgreSQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Auth-JWT-black?style=flat&logo=json-web-tokens&logoColor=white" />
+      </p>      
+      <p align="center">
+        <a href="https://umit8103.pythonanywhere.com/">🔗 Live Demo (Swagger)</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project_Django_Rest_Framework_Stock_App_CH-13.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/stock-management-rest-api.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8103.pythonanywhere.com/">
-          <img src="./backend-gif1/Stock_App_Swagger_Redoc.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/stock-management-rest-api/main/assets/stock-management.gif" height="150"/>
         </a>
       </p>
     </td>
