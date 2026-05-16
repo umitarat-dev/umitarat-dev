@@ -641,7 +641,7 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center">🔐 Google Auth API – Allauth</h2>
+      <h2 align="center">🔐 Django Google Allauth Integration</h2>
       <p>Django authentication API integrating Google OAuth2 (django-allauth) for secure social login and account flow handling.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Auth-Django%20Allauth-0A84FF?style=flat&logo=django&logoColor=white"/>
@@ -649,11 +649,11 @@ Hi, I’m **Ümit**.
       </p>      <p align="center">
         <a href="https://umit8110.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Proj_Auth_Dj_Allauth_Google_Official_doc_CH-11_V.02.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/django-google-allauth-integration.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8110.pythonanywhere.com/">
-          <img src="./backend-gif1/Social_Account_Auth_App.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/django-google-allauth-integration/main/assets/google.auth.gif" height="150"/>
         </a>
       </p>
     </td>
