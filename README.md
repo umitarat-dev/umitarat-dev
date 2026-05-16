@@ -653,7 +653,7 @@ Hi, I’m **Ümit**.
       </p>
       <p align="center">
         <a href="https://umit8110.pythonanywhere.com/">
-          <img src="https://raw.githubusercontent.com/umitarat-dev/django-google-allauth-integration/main/assets/google.auth.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/django-google-allauth-integration/main/assets/google-auth.gif" height="150"/>
         </a>
       </p>
     </td>
