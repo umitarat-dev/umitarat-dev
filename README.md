@@ -642,11 +642,13 @@ Hi, I’m **Ümit**.
     </td>
     <td width="50%" valign="top">
       <h2 align="center">🔐 Django Google Allauth Integration</h2>
-      <p>Django authentication API integrating Google OAuth2 (django-allauth) for secure social login and account flow handling.</p>
+      <p>A production-ready Google OAuth2 social authentication system built with Django 5.1, featuring a fully responsive and sleek Glassmorphism user interface.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Auth-Django%20Allauth-0A84FF?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Provider-Google%20OAuth2-4285F4?style=flat&logo=google&logoColor=white"/>
-      </p>      <p align="center">
+        <img src="https://img.shields.io/badge/Backend-Django%205.1-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Auth-Google%20OAuth2-4285F4?style=flat&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UI-Glassmorphism-FF69B4?style=flat&logo=css3&logoColor=white"/>
+      </p>      
+      <p align="center">
         <a href="https://umit8110.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/umitarat-dev/django-google-allauth-integration.git">📂 Repository</a>
