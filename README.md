@@ -664,19 +664,21 @@ Hi, I’m **Ümit**.
   <!-- Row 5 -->
   <tr>
     <td width="50%" valign="top">
-      <h2 align="center">📝 Blog App – FullStack</h2>
-      <p>Full-stack Django blog app combining REST endpoints with template-based UI and complete content CRUD workflows.</p>
+      <h2 align="center">📝 Django Dynamic Blog Platform</h2>
+      <p>A comprehensive full-stack MVC blog platform featuring transactional SMTP password recovery, automated unique slug generation, and interactive engagement metrics tracking.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Backend-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Frontend-JinJa2%20%2F%20HTML-E34F26?style=flat" />
-      </p>      <p align="center">
+        <img src="https://img.shields.io/badge/Backend-Django%205.1-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Frontend-Bootstrap%204.5-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Service-SMTP%20Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+      </p>      
+      <p align="center">
         <a href="https://umit8112.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Proj_Django_Temp_Blog_App_CH-8.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/django-dynamic-blog-platform.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8112.pythonanywhere.com/">
-          <img src="./backend-gif1/Blog_App.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/django-dynamic-blog-platform/main/assets/Blog_App.gif" height="150"/>
         </a>
       </p>
     </td>
