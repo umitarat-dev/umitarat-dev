@@ -685,12 +685,12 @@ Hi, I’m **Ümit**.
     <td width="50%" valign="top">
       <h2 align="center">🎯 Django Authenticated Todo App</h2>
       <p>
-      <img src="https://img.shields.io/badge/Django-5.1-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/SMTP-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+        A premium full-stack task management SaaS workspace featuring real-time analytical data metrics counters, multi-level priority tracking, and automated SMTP password recovery.
       </p>
       <p align="center">
-        A premium full-stack task management SaaS workspace featuring real-time analytical data metrics counters, multi-level priority tracking, and automated SMTP password recovery.
+        <img src="https://img.shields.io/badge/Backend-Django%205.1-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Frontend-Bootstrap%205.3-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Service-SMTP%20Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
       </p>      
       <p align="center">
         <a href="https://umit8106.pythonanywhere.com/">🔗 Live Demo</a>
