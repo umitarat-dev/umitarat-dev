@@ -683,19 +683,23 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center">✅ Todo App – FullStack</h2>
-      <p>Full-stack task manager with Django Templates UI, authentication, and REST-backed task lifecycle operations.</p>
+      <h2 align="center">🎯 Django Authenticated Todo App</h2>
+      <p>
+      <img src="https://img.shields.io/badge/Django-5.1-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/SMTP-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+      </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Backend-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Frontend-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-      </p>      <p align="center">
+        A premium full-stack task management SaaS workspace featuring real-time analytical data metrics counters, multi-level priority tracking, and automated SMTP password recovery.
+      </p>      
+      <p align="center">
         <a href="https://umit8106.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project_Django_Templates_Authantication-1_Todo_App_Class_Based_CH-11.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/django-authenticated-todo-app.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8106.pythonanywhere.com/">
-          <img src="./backend-gif1/Todo_App_Temp-2.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/django-authenticated-todo-app/main/assets/todo-app.gif" height="150"/>
         </a>
       </p>
     </td>
