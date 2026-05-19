@@ -722,7 +722,7 @@ Hi, I’m **Ümit**.
       </p>
       <p align="center">
         <a href="https://umit8108.pythonanywhere.com/">
-          <img src="https://raw.githubusercontent.com/umitarat-dev/django-authenticated-todo-app/main/assets/weather-app.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/django-weather-api-insight/main/assets/weather-app.gif" height="150"/>
         </a>
       </p>
     </td>
