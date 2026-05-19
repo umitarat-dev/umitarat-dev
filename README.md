@@ -708,19 +708,21 @@ Hi, I’m **Ümit**.
   <!-- Row 6 -->
   <tr>
     <td width="50%" valign="top">
-      <h2 align="center">🌦️ Weather App – FullStack</h2>
-      <p>Weather search application with Django Templates frontend and REST API integration for location-based forecast retrieval.</p>
+      <h2 align="center">🌦️ Django Weather API Insight</h2>
+      <p>A premium full-stack climate monitoring workspace featuring real-time OpenWeather API streaming, custom email-based authentication architecture, and optimized multi-user relational database design.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Backend-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/API-External%20Weather-blue?style=flat" />
-      </p>      <p align="center">
+        <img src="https://img.shields.io/badge/Backend-Django%205.1-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Frontend-Bootstrap%205.3-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/API-OpenWeatherMap-EB6E4B?style=flat&logo=openweathermap&logoColor=white"/>
+      </p>      
+      <p align="center">
         <a href="https://umit8108.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Proj_WeatherApp-API-_Temp_Auth-2_email_CH-11_V.04.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/django-weather-api-insight.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8108.pythonanywhere.com/">
-          <img src="./backend-gif1/Weather_App_Temp.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/django-authenticated-todo-app/main/assets/weather-app.gif" height="150"/>
         </a>
       </p>
     </td>
