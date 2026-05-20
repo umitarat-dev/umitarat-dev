@@ -689,7 +689,8 @@ Hi, I’m **Ümit**.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Backend-Django%205.1-092E20?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Frontend-Bootstrap%205.3-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Engine-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UI-Bootstrap%205.3-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/Service-SMTP%20Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
       </p>      
       <p align="center">
@@ -712,7 +713,8 @@ Hi, I’m **Ümit**.
       <p>A premium full-stack climate monitoring workspace featuring real-time OpenWeather API streaming, custom email-based authentication architecture, and optimized multi-user relational database design.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Backend-Django%205.1-092E20?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Frontend-Bootstrap%205.3-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Engine-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UI-Bootstrap%205.3-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/API-OpenWeatherMap-EB6E4B?style=flat&logo=openweathermap&logoColor=white"/>
       </p>      
       <p align="center">
@@ -729,7 +731,8 @@ Hi, I’m **Ümit**.
     <td width="50%" valign="top">
       <h2 align="center">🍕 Pizza Order Workspace</h2>
       <p>An enterprise-grade Django pizza workspace engine built with a strict decoupled asset structure. Features dynamic responsive CRUD cards, secure session-isolated auth pathways, and an environment-aware file-logging email fallback system for production security.</p>
-      <img src="https://img.shields.io/badge/Backend-Django%204.1-092E20?style=flat&logo=django&logoColor=white"/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Backend-Django%204.1-092E20?style=flat&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/Engine-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/UI-Bootstrap%205.3-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
       </p>      
