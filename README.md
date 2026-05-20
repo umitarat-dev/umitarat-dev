@@ -727,19 +727,20 @@ Hi, I’m **Ümit**.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center">🍕 Pizza App – FullStack</h2>
-      <p>Full-stack ordering system with Django Templates interface and REST API backend for pizza order processing.</p>
+      <h2 align="center">🍕 Pizza Order Workspace</h2>
+      <p>An enterprise-grade, full-stack pizza ordering platform built with a strict decoupled asset architecture. Features relational order CRUD management, responsive workflow cards with zero inline styles, session-secured custom auth pathways, and an environment-aware file-logging email fallback engine engineered specifically for secure production deployment.</p>
+      <img src="https://img.shields.io/badge/Backend-Django%204.1-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Engine-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UI-Bootstrap%205.3-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+      </p>      
       <p align="center">
-        <img src="https://img.shields.io/badge/Backend-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Logic-Order%20Management-ff9800?style=flat" />
-      </p>      <p align="center">
         <a href="https://umit8111.pythonanywhere.com/">🔗 Live Demo</a>
           &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Umit8098/Project_Django_Templates_Pizza_App_CH-12_V.03.git">📂 Repository</a>
+        <a href="https://github.com/umitarat-dev/django-pizza-order-workspace.git">📂 Repository</a>
       </p>
       <p align="center">
         <a href="https://umit8111.pythonanywhere.com/">
-          <img src="./backend-gif1/pizza_app_order.gif" height="150"/>
+          <img src="https://raw.githubusercontent.com/umitarat-dev/django-pizza-order-workspace/main/assets/pizza-app.gif" height="150"/>
         </a>
       </p>
     </td>
