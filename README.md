@@ -733,7 +733,7 @@ Hi, I’m **Ümit**.
     </td>
     <td width="50%" valign="top">
       <h2 align="center">🍕 Pizza Order Workspace</h2>
-      <p>An enterprise-grade Django pizza workspace engine built with a strict decoupled asset structure. Features dynamic responsive CRUD cards, secure session-isolated auth pathways, and an environment-aware file-logging email fallback system for production security.</p>
+      <p>An enterprise-grade Django pizza workspace with decoupled assets. Features responsive CRUD management, session-secured auth, and a production-ready file-logging email engine.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Backend-Django%204.1-092E20?style=flat&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/Engine-Django%20Templates-092E20?style=flat&logo=django&logoColor=white"/>
