@@ -789,13 +789,13 @@ Hi, I’m **Ümit**.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umitarat-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=umitarat-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="48%" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=umitarat-dev&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitarat-dev&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="55%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umitarat-dev&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
