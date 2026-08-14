@@ -788,17 +788,19 @@ Hi, I’m **Ümit**.
 
 ## 📊 GitHub Stats  
 
-<p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umitarat-dev&theme=tokyonight&cache_seconds=86400" width="49%"/>&nbsp;
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=umitarat-dev&theme=tokyonight" width="49%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umitarat-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=umitarat-dev&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitarat-dev&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2&v=1" alt="languages" width="40%" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitarat-dev&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="55%" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=umitarat-dev" alt="umitarat-dev" width="20%" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umitarat-dev&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 <br>
 
